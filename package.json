@@ -1,9 +1,9 @@
 {
-  "name": "shubham-portfolio",
+  "name": "portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://S27ultron.github.io/my-app",
+  "homepage": "https://S27ultron.github.io/portfolio",
 
   "scripts": {
     "dev": "vite",
